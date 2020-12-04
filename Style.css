@@ -1,0 +1,47 @@
+            body{
+                background-image: linear-gradient(to right,#b302b3,#aa8800,#c5c5c5,#dd6677,#ee3322);
+            }
+            h1{
+                color:#e7d;
+                font-family:Jokerman;
+                font-size: xx-large;
+                text-decoration: overline;
+                letter-spacing: 5px;
+                text-shadow: 3px 3px black;
+                transform: rotate(5deg);
+            }
+
+            h2{
+                color:#ae7;
+                font-family:AmarnathBold;
+                font-size: x-large;
+            }
+            p{
+                color:#d32;
+                font-family: AmarnathBold;
+                font-size: large;
+                transform: rotate(100);
+            }
+            li{
+                color:#d32;
+                font-family: AmarnathBold;
+                font-size: 20px
+            }
+            td{
+                border: 2px solid green;
+                padding: 8px ;
+
+            }
+            table{
+                width:100%;
+                border-collapse: collapse;
+                display: flex;
+                align-items: center;
+                align-self: center;
+            }
+            th{
+                
+                
+                border: 2px solid green;
+            }
+        
